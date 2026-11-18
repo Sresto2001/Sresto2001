@@ -6,22 +6,36 @@
 
 <h3 align="center">Full Stack Developer in Training | Building toward AI Infrastructure</h3>
 
+## About Me
+I'm a Computer Science diploma student from Chittagong, Bangladesh, learning full-stack web development through Programming Hero. I like understanding how the frontend, APIs and databases connect, and I'm working toward backend and AI infrastructure engineering.
+
+## What I'm Up To
+- 🔨 Building full-stack projects with React, Node.js and MongoDB
+- 📚 Learning Docker and Linux basics
+- 🎯 Goal: AI Infrastructure Engineering
+
+## Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github&theme=dark" alt="Skills"/>
+</p>
+
+**Currently learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Learning"/>
+</p>
+
+## GitHub Stats
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sresto2001&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sresto2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sresto2001&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+## Connect
+<p>
   <a href="https://www.linkedin.com/in/sresto-barua-701344209/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:baruasresto608@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-## About Me
-I'm a Computer Science diploma student in Chittagong, Bangladesh, and a full-stack web development learner (Programming Hero). I build web apps and I'm working toward backend and AI infrastructure engineering: Linux, Docker, APIs, deployment.
-
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-## Currently
-- Learning: Docker, Linux, backend deployment
-- Goal: AI Infrastructure Engineering
