@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&text=SRESTO&fontColor=ffffff&fontSize=52&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&text=SRESTO%20BARUA&fontColor=ffffff&fontSize=46&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sresto+Barua;Learning+Backend+Engineering;Building+toward+AI+Infrastructure+Engineering" alt="Typing animation"/>
+</p>
 
 <h3 align="center">Full Stack Developer in Training | Building toward AI Infrastructure</h3>
 
